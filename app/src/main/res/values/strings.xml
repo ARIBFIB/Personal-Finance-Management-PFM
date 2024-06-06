@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PFM</string>
+
+    <string name="title_1">Wallet</string>
+    <string name="title_2">ATM card</string>
+    <string name="title_3">Total Budget</string>
+    <string name="title_4">Saving</string>
+
+
+    <string name="text_1">A wallet is an advantage or asset that allows for the storage and organization of important personal items such as cash, cards, and identification..</string>
+    <string name="text_2">An ATM card provides convenient access to one bank account..</string>
+    <string name="text_3">The pain itself be loved, adipiscing enjoyed. Even with a the reading distraction seasoning.</string>
+    <string name="text_4">The pain itself be loved, adipiscing enjoyed. Even with a the reading distraction seasoning.</string>
+
+</resources>
